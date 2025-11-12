@@ -1,4 +1,4 @@
-Joshua Price
+Joshua Price  
 CS 4343 Numerical Methods for Digital Computing  
 Oklahoma State University  
 Creation Date: 11-11-2025  
